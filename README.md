@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Edison Lien.
+- 👀 I’m interested in web gis developing,deep learing , remote sensing and data science.
+- 🌱 I’m study at National Cheng National Chengchi University.
+- 📫 106207442@nccu.edu.tw
